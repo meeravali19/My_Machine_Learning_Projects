@@ -40,3 +40,21 @@ I’ve developed to deepen my knowledge and solve real-world challenges across i
 **Tech Stack:** Python, Pandas, Scikit-learn, Logistic Regression.  
 **Highlights:** Data cleaning, feature engineering, model training, and validation.  
 
+### 6. Iris Flower Classification
+**Objective:** Classify iris flowers into species based on petal and sepal measurements.  
+**Tech Stack:** Python, Scikit-learn, K-Nearest Neighbors.  
+**Highlights:** Model training, testing, and accuracy assessment.​  
+
+## 🛠️ Technologies Use  
+**Programming Language:** Python  
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK  
+**Tools:** Jupyter Notebook
+
+## 🚀 Getting Started
+**1. Clone the repository:**  
+  ```sh
+     git clone https://github.com/meeravali19/My_Machine_Learning_Projects.git
+  ```
+
+
+
