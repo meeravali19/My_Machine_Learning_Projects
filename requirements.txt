@@ -1,0 +1,19 @@
+# Core Libraries
+numpy==1.24.4
+pandas==2.1.4
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# Natural Language Processing (For Spam Classifier)
+nltk==3.8.1
+
+# Data Visualization
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# Jupyter Notebook (for interactive development)
+notebook==7.0.6
+
+# For compatibility
+joblib==1.3.2
