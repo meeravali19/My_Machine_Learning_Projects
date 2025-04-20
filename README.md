@@ -51,10 +51,30 @@ I’ve developed to deepen my knowledge and solve real-world challenges across i
 **Tools:** Jupyter Notebook
 
 ## 🚀 Getting Started
-**1. Clone the repository:**  
-  ```sh
+1. **Clone the repository:**
+   ```sh
      git clone https://github.com/meeravali19/My_Machine_Learning_Projects.git
-  ```
+   ```
+2. **Navigate to the project directory:**
+   ```sh
+   cd My_Machine_Learning_Projects
+   ```
+3. **Open the project of your choice:**
+   ```sh
+   cd [project_name]
+   ```
+4. **Install the required dependencies:**
+   ```sh
+   pip install -r requirements.txt
+   ```
 
+5. **Run the Jupyter Notebook:**
+   ```sh
+   jupyter notebook
+   ```
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
 
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
